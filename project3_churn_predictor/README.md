@@ -39,7 +39,3 @@ python churn_predictor.py
 - Electronic check payment users churn at **~45%**
 - Customers in their **first 12 months** are highest risk
 
-## Upgrade Path
-- SHAP values for explainability
-- FastAPI deployment for live scoring
-- Streamlit dashboard for business users
