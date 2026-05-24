@@ -40,8 +40,3 @@ jupyter notebook imdb_sentiment_analysis.ipynb
 - Top negative predictors: `worst`, `waste`, `awful`, `boring`, `terrible`
 - Top positive predictors: `brilliant`, `wonderf`, `excel`, `perfect`, `masterpiece`
 
-## Upgrade Path
-- Fine-tune **BERT/RoBERTa** for ~93%+ accuracy and sarcasm handling
-- Extend to **5-star rating prediction** (multi-class)
-- Deploy as **FastAPI REST endpoint**
-- Build real-time **Twitter/Reddit sentiment dashboard**
