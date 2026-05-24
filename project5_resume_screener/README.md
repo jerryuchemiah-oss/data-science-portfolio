@@ -37,8 +37,4 @@ Resume + JD → TF-IDF Vectorization → Cosine Similarity
 | Keyword Match | 30% |
 | Skill Coverage | 25% |
 
-## Upgrade Path
-- BERT/sentence-transformers for deeper semantic matching
-- OCR support for PDF resume uploads
-- Database to track multiple candidates
-- REST API: `POST /screen` → returns JSON score
+
