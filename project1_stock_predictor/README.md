@@ -32,7 +32,4 @@ df = yf.download('AAPL', start='2022-01-01', end='2024-12-31')
 | MAPE   | ~1–3% |
 | R²     | ~0.96 |
 
-## Upgrade Path
-- Real LSTM with `tensorflow.keras` for true sequence memory
-- Live data pipeline with `yfinance`
-- REST API deployment with FastAPI + Docker
+
