@@ -15,12 +15,8 @@ Interactive NLP-powered web app that analyzes how well a resume matches a job de
 - **JSON Report Export**
 - Sample resume + job description pre-loaded for instant demo
 
-## Quick Start
-```bash
-pip install streamlit scikit-learn pandas numpy matplotlib
-streamlit run resume_screener.py
-```
-Then open http://localhost:8501 in your browser.
+## Link
+https://ai-resume-screenerds.streamlit.app
 
 ## How It Works
 ```
